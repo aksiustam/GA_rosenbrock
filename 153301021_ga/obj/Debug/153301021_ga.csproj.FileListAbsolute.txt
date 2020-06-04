@@ -1,0 +1,9 @@
+c:\users\ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\bin\Debug\153301021_ga.exe.config
+c:\users\ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\bin\Debug\153301021_ga.exe
+c:\users\ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\bin\Debug\153301021_ga.pdb
+c:\users\ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\obj\Debug\153301021_ga.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\obj\Debug\_153301021_ga.Form1.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\obj\Debug\_153301021_ga.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\obj\Debug\153301021_ga.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\obj\Debug\153301021_ga.exe
+c:\users\ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\obj\Debug\153301021_ga.pdb

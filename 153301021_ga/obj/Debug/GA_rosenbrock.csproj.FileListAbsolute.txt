@@ -1,0 +1,10 @@
+C:\Users\Ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\bin\Debug\153301021_ga.exe.config
+C:\Users\Ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\bin\Debug\153301021_ga.exe
+C:\Users\Ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\bin\Debug\153301021_ga.pdb
+C:\Users\Ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\obj\Debug\GA_rosenbrock.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\obj\Debug\_GA_rosenbrock.Form1.resources
+C:\Users\Ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\obj\Debug\_GA_rosenbrock.Properties.Resources.resources
+C:\Users\Ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\obj\Debug\GA_rosenbrock.csproj.GenerateResource.Cache
+C:\Users\Ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\obj\Debug\153301021_ga.exe
+C:\Users\Ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\obj\Debug\153301021_ga.pdb
+C:\Users\Ahmet\documents\visual studio 2012\Projects\153301021_ga\153301021_ga\bin\Debug\GA_rosenbrock.exe.config
